@@ -6,13 +6,15 @@ Instalação do Laravel deste repositório:
 no diretório do app:
 $ composer update
 $ php artisan key:generate
-put database credentials in .env file
-$ php artisan jwt:secret \n
-4. Migrate and insert records \n
+colocar o database credentials in .env file
+```
+$ php artisan jwt:secret 
+4. Migrate and insert records
 $ php artisan migrate \n
 $ php artisan tinker \n
-$ factory(App\User::class, 10)->create() \n
-$ factory(App\Task::class, 50)->create() \n
+$ factory(App\User::class, 10)->create() 
+$ factory(App\Task::class, 50)->create() 
+```
 
 ## Endpoints
 
