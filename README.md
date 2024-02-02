@@ -13,8 +13,8 @@ senha: Senha do usuário cadastrado no sistema, com aquele determinado Username.
 Exemplo:
 
 ```
-login: leandro
-senha: 123456
+email: leandro@changed.com.br
+password: 123456
 ```
 
 #### Respostas
