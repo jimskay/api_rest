@@ -25,12 +25,8 @@ Exemplo de resposta:
 ```
 
 {
-    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJuYW1lIjoiTGVhbmRybyBSb2NoYSIsImV4cGlyZXNfaW4iOjE3MDY4ODY0Mzh9.FvfWnOfMKVUv002KVPykVI0rHBkWHCAlfVRZ4vaKbl0",
-    "data": {
-        "id": "1",
-        "name": "Leandro Rocha",
-        "expires_in": 1706886438
-    }
+    "status": true,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xOjgwMDAvYXBpL2xvZ2luIiwiaWF0IjoxNzA2OTA2NTcyLCJleHAiOjE3MDY5MTAxNzIsIm5iZiI6MTcwNjkwNjU3MiwianRpIjoiRTk0VEcyV0xoNkFaNHdVYyIsInN1YiI6IjIiLCJwcnYiOiI4N2UwYWYxZWY5ZmQxNTgxMmZkZWM5NzE1M2ExNGUwYjA0NzU0NmFhIn0.CxEo6i8DT3rlnvBQJI6Zw7lZ9oXnl2Q0vfzFSR9FMzw"
 }
 
 ```
