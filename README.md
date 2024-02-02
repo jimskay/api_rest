@@ -3,11 +3,12 @@ Esta API é utilizada para login de usuários
 
 Instalação do Laravel deste repositório:
 
+```
 no diretório do app:
+
 $ composer update
 $ php artisan key:generate
 colocar o database credentials in .env file
-```
 $ php artisan jwt:secret 
 4. Migrate and insert records
 $ php artisan migrate \n
