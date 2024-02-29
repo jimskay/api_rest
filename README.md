@@ -266,8 +266,10 @@ Exemplo de resposta:
 ##### Falha na autenticação! 401
 Caso essa resposta aconteça, isso significa que aconteceu alguma falha durante o processo de autenticação da requisição. Motivos: Token inválido, Token expirado.
 
-```
+```mermaid
+
 erDiagram
     USER ||--o{ USER_DEPARTMENT : places
     DEPARTMENT ||--o{ USER_DEPARTMENT : places
+
 ```
