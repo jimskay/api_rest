@@ -269,7 +269,7 @@ Caso essa resposta aconteça, isso significa que aconteceu alguma falha durante 
 ```mermaid
 
 erDiagram
-    USER ||--o{ USER_DEPARTMENT : places
-    DEPARTMENT ||--o{ USER_DEPARTMENT : places
+    USER ||--o{ USER_DEPARTMENT : pertence
+    DEPARTMENT ||--o{ USER_DEPARTMENT : contem
 
 ```
